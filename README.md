@@ -1,47 +1,54 @@
-<h1 align="center">Hi 👋, I'm MD MARUFUR RAHMAN</h1>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
+![A passionate fullstack developer from Bangladesh](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/352386484_964691104553879_5664687566135167677_n.jpg?stp=dst-jpg_p720x720&_nc_cat=110&cb=99be929b-3346023f&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFmqTLDnDuIiDi0ZlfdUdnv1_QNzYmO2aHX9A3NiY7Zoe-ghAI8kkIyre7EvieOhQTJzelsv7Q3Erl-G52CbQa9&_nc_ohc=k-YFTr2hhNcAX-gUSLF&_nc_ht=scontent.fdac5-1.fna&oh=00_AfCVP4vUSK5-0RMuvxNXwaGX5dDbHYWUq-x2i1CiEACTVQ&oe=64AA9356)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmarufurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="devmarufurrahman" /> </p>
+### Hi there 👋, MD MARUFUR RAHMAN
+#### A passionate fullstack developer from Bangladesh
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmarufurrahman" alt="devmarufurrahman" /></a> </p>
+@devmarufurrahamn
 
-- 🌱 I’m currently learning **PHP and laravel**
+Welcome to my GitHub profile! I am Md Marufur Rahman, a passionate full-stack developer with a diploma in Computer Science and Engineering from Magura Polytechnic Institute. With a strong foundation in web development, I strive to create robust and user-friendly applications. 
 
-- 👯 I’m looking to collaborate on **github**
+Skills:
+- JavaScript: I am proficient in JavaScript, leveraging its power to build dynamic and interactive web applications. I have experience with frameworks like React, which enables me to create efficient and scalable front-end solutions.
+- React: I have expertise in React, a popular JavaScript library for building user interfaces. I can develop single-page applications (SPAs) and reusable components, ensuring an enhanced user experience.
+- Ant Design: I am familiar with Ant Design, a UI library widely used for its elegant and responsive components. Leveraging its capabilities, I can create visually appealing and user-friendly interfaces.
+- Tailwind CSS: I have hands-on experience with Tailwind CSS, a utility-first CSS framework. Using its utility classes, I can quickly style web applications while maintaining consistency and responsiveness.
+- Bootstrap: I am skilled in Bootstrap, a widely adopted CSS framework. I can leverage its pre-built components and responsive grid system to develop sleek and mobile-friendly applications.
+- PHP: I have a good understanding of PHP, enabling me to develop server-side functionalities and handle data processing efficiently.
+- Internship Training: I have completed an intensive internship training program at Fort International, where I gained practical knowledge and hands-on experience in web development. This experience has enhanced my skills and prepared me to take on real-world challenges.
+- Web Application Development: Currently, I am working as a Web Application Developer at Winky Tech Limited. In this role, I actively contribute to the development of web-based solutions, collaborating with cross-functional teams to deliver high-quality products.
 
-- 👨‍💻 All of my projects are available at [https://devmarufurrahman.github.io/Marufur-Rahman/](https://devmarufurrahman.github.io/Marufur-Rahman/)
+Personal Attributes:
+- Dedicated Learner: I have a strong passion for learning and keeping up with the latest trends in web development. I continuously expand my skill set to deliver innovative and cutting-edge solutions.
+- Team Worker: I thrive in collaborative environments and believe in the power of teamwork. I actively participate in team discussions, contribute ideas, and work collectively towards achieving project goals.
+- Problem Solver: I possess strong problem-solving skills, allowing me to analyze complex issues and devise effective solutions. I approach challenges with a positive mindset and continuously strive for improvement.
+- Data Structures and Algorithms: I have a solid understanding of data structures and algorithms, enabling me to optimize application performance and implement efficient solutions.
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/dev-marufur-rahman/](https://www.linkedin.com/in/dev-marufur-rahman/)
+If you're looking for a dedicated and skilled full-stack developer who can create intuitive web applications, I would be thrilled to collaborate with you. Feel free to explore my GitHub repositories to see my previous projects and contributions. Let's build exceptional software together!
 
-- 💬 Ask me about **react, javascript, php etc.**
+Skills: REACT / JavaScript / Ant-design / php / tailwind
 
-- 📧 How to reach me **mdmarufur5682@gmail.com**
+- 🔭 I’m currently working on https://www.winkytech.com/ 
+- 🌱 I’m currently learning PHP and laravel 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about javascript and react 
+- 📫 How to reach me: mdmarufur5682@gmail.com 
+- ⚡ Fun fact: Yes, I am funny 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/maruf5682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maruf5682" height="30" width="40" /></a>
-<a href="https://dev.to/devmarufurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devmarufurrahman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev-marufur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-marufur-rahman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/md-marufur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-marufur-rahman" height="30" width="40" /></a>
-<a href="https://fb.com/devmarufurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devmarufurrahman" height="30" width="40" /></a>
-<a href="https://instagram.com/devmarufurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devmarufurrahman" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mdmarufur5682" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mdmarufur5682" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devmarufurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devmarufurrahman" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/devmarufurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devmarufurrahman" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devmarufurrahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/devmarufurrahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dev-marufur-rahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/devmarufurrahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/devmarufurrahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/maruf5682)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/md-marufur-rahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devmarufurrahman.github.io/Marufur-Rahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/devmarufurrahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/maruf5682)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/devmarufurrahman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devmarufurrahman" /></a></p><br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=devmarufurrahman)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmarufurrahman&show_icons=true&locale=en&layout=compact" alt="devmarufurrahman" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmarufurrahman)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmarufurrahman&show_icons=true&locale=en" alt="devmarufurrahman" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devmarufurrahman&show_icons=true)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmarufurrahman&" alt="devmarufurrahman" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devmarufurrahman)  
+
+![GitHub metrics](https://metrics.lecoq.io/devmarufurrahman)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=devmarufurrahman)  
+
+![Profile views](https://gpvc.arturio.dev/devmarufurrahman)  
