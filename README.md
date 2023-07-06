@@ -45,7 +45,7 @@ Skills: REACT / JavaScript / Ant-design / php / tailwind
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devmarufurrahman&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devmarufurrahman)  
+![GitHub Activity Graph](https://github.com/devmarufurrahman)  
 
 ![GitHub metrics](https://metrics.lecoq.io/devmarufurrahman)  
 
