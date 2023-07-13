@@ -1,4 +1,4 @@
-![A passionate fullstack developer from Bangladesh] 
+
 ![image](https://github.com/devmarufurrahman/devmarufurrahman/assets/106665344/b3da8233-50af-4b72-8c8e-c1576f2adfcb)
 
 
