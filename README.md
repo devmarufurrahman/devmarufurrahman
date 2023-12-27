@@ -9,30 +9,31 @@
 
 Welcome to my GitHub profile! I am Md Marufur Rahman, a passionate full-stack developer with a diploma in Computer Science and Engineering from Magura Polytechnic Institute. With a strong foundation in web development, I strive to create robust and user-friendly applications. 
 
-Skills:
-- JavaScript: I am proficient in JavaScript, leveraging its power to build dynamic and interactive web applications. I have experience with frameworks like React, which enables me to create efficient and scalable front-end solutions.
-- React: I have expertise in React, a popular JavaScript library for building user interfaces. I can develop single-page applications (SPAs) and reusable components, ensuring an enhanced user experience.
-- Ant Design: I am familiar with Ant Design, a UI library widely used for its elegant and responsive components. Leveraging its capabilities, I can create visually appealing and user-friendly interfaces.
-- Tailwind CSS: I have hands-on experience with Tailwind CSS, a utility-first CSS framework. Using its utility classes, I can quickly style web applications while maintaining consistency and responsiveness.
-- Bootstrap: I am skilled in Bootstrap, a widely adopted CSS framework. I can leverage its pre-built components and responsive grid system to develop sleek and mobile-friendly applications.
-- PHP: I have a good understanding of PHP, enabling me to develop server-side functionalities and handle data processing efficiently.
-- Internship Training: I have completed an intensive internship training program at Fort International, where I gained practical knowledge and hands-on experience in web development. This experience has enhanced my skills and prepared me to take on real-world challenges.
-- Web Application Development: Currently, I am working as a Web Application Developer at Winky Tech Limited. In this role, I actively contribute to the development of web-based solutions, collaborating with cross-functional teams to deliver high-quality products.
+🚀 Passionate Mobile App Developer | Full Stack Enthusiast 🌐
 
-Personal Attributes:
-- Dedicated Learner: I have a strong passion for learning and keeping up with the latest trends in web development. I continuously expand my skill set to deliver innovative and cutting-edge solutions.
-- Team Worker: I thrive in collaborative environments and believe in the power of teamwork. I actively participate in team discussions, contribute ideas, and work collectively towards achieving project goals.
-- Problem Solver: I possess strong problem-solving skills, allowing me to analyze complex issues and devise effective solutions. I approach challenges with a positive mindset and continuously strive for improvement.
-- Data Structures and Algorithms: I have a solid understanding of data structures and algorithms, enabling me to optimize application performance and implement efficient solutions.
+- Hello there! 👋 I'm MD MARUFUR RAHMAN, a dedicated and forward-thinking Mobile App Developer with a strong foundation in native Android development using Java. Over the past year, I've successfully crafted intuitive and feature-rich mobile 
+  applications, contributing to an ever-evolving digital landscape.
 
-If you're looking for a dedicated and skilled full-stack developer who can create intuitive web applications, I would be thrilled to collaborate with you. Feel free to explore my GitHub repositories to see my previous projects and contributions. Let's build exceptional software together!
+- On the backend, I'm proficient in PHP and Laravel, enabling me to build robust and scalable systems that power seamless user experiences. My extensive two-year background in web development has equipped me with a diverse skill set encompassing 
+  HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS.
 
-Skills: REACT / JavaScript / Ant-design / php / tailwind
+- I thrive on the challenges of creating innovative solutions and continually enhancing my skills to stay at the forefront of technology trends. My goal is to evolve into a Full Stack Mobile Application Developer, combining my expertise in both 
+  mobile and web development. I'm excited about the prospect of diving into Flutter to broaden my toolkit and elevate my mobile app development capabilities.
+
+- If you are seeking a dedicated learner, team work, and problem solver who can adapt to new technologies quickly, I would welcome the opportunity to connect and discuss how my skills can contribute to your organization's success.
+
+
+Let's connect and explore opportunities to collaborate on cutting-edge projects, turning ideas into reality and creating exceptional user experiences.
+My E-mail: mdmarufur5682@gmail.com
+
+ 🚀💻 #MobileAppDevelopment #java #php #FullStackDeveloper #FlutterEnthusiast #TechInnovator
+
+Skills: Java / JavaScript / Android Development / php / tailwind
 
 - 🔭 I’m currently working on https://www.winkytech.com/ 
 - 🌱 I’m currently learning PHP and laravel 
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about javascript and react 
+- 💬 Ask me about javascript and Java 
 - 📫 How to reach me: mdmarufur5682@gmail.com 
 - ⚡ Fun fact: Yes, I am funny 
 
